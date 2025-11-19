@@ -68,5 +68,11 @@ I enjoy solving real-world problems, writing clean and efficient code, and conti
 
 ---
 
+## 👀 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=RatulFuad&color=blue)
+
+
+---
+
 ⭐️ **Feel free to explore my repositories and star your favorites!**
 
